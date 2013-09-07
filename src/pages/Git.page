@@ -1,6 +1,9 @@
 <apex:page >
 <!-- Begin Default Content REMOVE THIS -->
 <h1>Congratulations</h1>
-This is your new Page to test how git works
+This is your new Page to test how git works.
+
+It seems I am not supposed to save the record in case i need to maintain the versions.
+
 <!-- End Default Content REMOVE THIS -->
 </apex:page>
